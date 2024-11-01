@@ -26,3 +26,39 @@ En dicha situación se pueden producir 3 escenarios:
 [![image.png](https://i.postimg.cc/tT68gsLL/image.png)](https://postimg.cc/Q9Xf4dNb)
 
 
+<h2>REPORTE<h2>
+
+<h2>PREGUNTA 1<h2>
+
+[![1-PREGUNTA.jpg](https://i.postimg.cc/dQ2tH3LH/1-PREGUNTA.jpg)](https://postimg.cc/yWNHWVhc)
+
+<h2>PREGUNTA 2<h2>
+
+[![2-PREGUNTA.jpg](https://i.postimg.cc/sx4jv6kd/2-PREGUNTA.jpg)](https://postimg.cc/hQhWYr4p)
+
+<h2>PREGUNTA 3<h2>
+
+[![3-PREGUNTA.jpg](https://i.postimg.cc/WzvppLfw/3-PREGUNTA.jpg)](https://postimg.cc/G8XnzNR4)
+
+<h2>PREGUNTA 4<h2>
+  
+[![4-PREGUNTA.jpg](https://i.postimg.cc/zf4XMRCM/4-PREGUNTA.jpg)](https://postimg.cc/Ny7c2FP7)
+
+<h2>PREGUNTA 5<h2>
+
+[![5-PREGUNTA.jpg](https://i.postimg.cc/XJF707xv/5-PREGUNTA.jpg)](https://postimg.cc/FdrQyvMt)
+
+<h2>PREGUNTA 6<h2>
+
+[![6-PREGUNTA.jpg](https://i.postimg.cc/hvP85wbp/6-PREGUNTA.jpg)](https://postimg.cc/2bMBq0tZ)
+
+<h2>PREGUNTA 7<h2>
+
+[![7-PREGUNTA.jpg](https://i.postimg.cc/d1QTsCk0/7-PREGUNTA.jpg)](https://postimg.cc/wtPBF7kK)
+
+<h2>PREGUNTA 8<h2>
+
+[![8-PREGUNTA.jpg](https://i.postimg.cc/85yfjCMm/8-PREGUNTA.jpg)](https://postimg.cc/62vpPtH8)
+
+<h2>IMPACTO ECONÓMICO<h2>
+Para un estimado de 10,000 pedidos mensuales, con un ticket promedio de S/. 50,000 y una desviación negativa del 1% generará una perdida económica del valor dejado de vender más la penalidad del 2% del valor de los productos no entregados al 100% y sin demora (ver Tabla 1). Para una facturacion de S/ 500 000 000 mensuales, se estaria dejando de facturar S/ 5 100 000 por cada 1% de varacion para abajo del indicador
