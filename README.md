@@ -7,11 +7,13 @@ Para lograr el objetivo se plantea Implementación de un sistema digitalizado de
   El precio de implementación de esta estrategia es de 157,000 soles como costo mensual. Se estima que al cumplir este objetivo en la fecha propuesta, la facturación adicional mensual será de 45 millones de soles, lo cual sumaría 540 millones de soles de facturación adicional solamente durante el primer año, posterior a la fecha de cumplimiento del objetivo.
 <h2>INDICADOR: Fill Rate<h2>
 
-[![image.png](https://i.postimg.cc/SRvbqk7R/image.png)](https://postimg.cc/7J0WnvRr)
+[![image.png](https://i.postimg.cc/vmkpMrSr/image.png)](https://postimg.cc/GBPMxyRt)
+
 
 <h2>DASHBOARD<h2>
 
-[![image.png](https://i.postimg.cc/C12qqfw4/image.png)](https://postimg.cc/zbnvmvbL)
+[![DASHBOARD.jpg](https://i.postimg.cc/MHb4yhZ5/DASHBOARD.jpg)](https://postimg.cc/ctCXWknt)
+
 
 <h2>Penalidades por incumplimiento de KPI (Fill Rate)<h2>
 Se produce cuando la empresa comercializadora de bebidas NO llega a cumplir con el fill rate (cumplir es realizar la entrega bajo dos criterios exigidos: 1. pedidos entregado al 100% y 2. Sin demora) hacia  su canal moderno (supermercados, tiendas de conveniencia y autoservicios).
@@ -21,5 +23,6 @@ En dicha situación se pueden producir 3 escenarios:
 2. Que la empresa comercializadora de bebidas NO entregué el pedido a tiempo, pero SÍ al 100%, en ese caso no se factura el valor de los productos que llegaron fuera de tiempo y se le aplica una penalidad del 2% de la valorización de los productos NO entregados a tiempo.
 3. Que la empresa comercializadora de bebidas NO entregué el pedido al 100% y tampoco a tiempo, en ese caso no se factura el valor de los productos que llegaron fuera de tiempo y se le aplica una penalidad el 2% de la valorización de los productos NO entregados a tiempo, ni al 100%.
 
-[![image.png](https://i.postimg.cc/WzQYX3wG/image.png)](https://postimg.cc/ctBcJdjC)
+[![image.png](https://i.postimg.cc/tT68gsLL/image.png)](https://postimg.cc/Q9Xf4dNb)
+
 
